@@ -1,16 +1,18 @@
 # Advanced-Viusalisation-and-Computational-Environment
-** MY Original Work Presentation
+** MY Original Work Presentation - video,idea,aim,research..(自述文件）
 
-** Video documentation< Clean up the room >
+** Video < Clean up the room > & source file information
 
-** Log：Design and development week1
+** Log：Design and development Part 1
 
-** Log：Design and development week2
+** Log：Design and development Part 2
 
-** Log：Design and development week3
+** Log：Design and development Part 3
 
-** Log：Design and development week4
+** Log：Design and development Part 4
 
-** Log：Design and development week5
+** Log：Design and development Part 5
+
+** Log：Design and development Part 6
 
 ** Term1：Labs to build skills
