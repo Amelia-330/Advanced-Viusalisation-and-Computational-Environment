@@ -1,6 +1,5 @@
-# CCI - Oxygen Poor <AR Game>
-The term-final project for course Advanced Visualisation and Computational Environment  
-MY Original Work
+# AR Game: Oxygen Poor 
+The term-final project for course Advanced Visualisation and Computational Environment - MY Original Work 
   
   
 ## Introduction
@@ -22,12 +21,12 @@ Complete project introduction: https://540767981.wixsite.com/amelia330/post/ar-g
   
 ## Interaction machine 
   
-*[Start the game and enter the AR underwater environment]  
- Goal description: Let the player enter the immersive underwater space  
-*[Identify garbage on the ground and trigger an alarm]
- Goal description: Set up a smart home system to detect the oxygen content of the garbage in the room  
-*[Pick up garbage on the ground and create marine ecology by player]
- Goal description: Arouse people's dependence on intelligent systems, while enhancing environmental awareness
+* Start the game and enter the AR underwater environment
+  Goal description: Let the player enter the immersive underwater space  
+* Identify garbage on the ground and trigger an alarm
+  Goal description: Set up a smart home system to detect the oxygen content of the garbage in the room  
+* Pick up garbage on the ground and create marine ecology by player
+  Goal description: Arouse people's dependence on intelligent systems, while enhancing environmental awareness
 
 
 ## Approach
