@@ -8,12 +8,16 @@
 
 * This project is an AR experiential game. The first entry into the AR interface represents the opening of the future smart home system. The background of the project is that global warming causes sea levels to rise, forcing people's homes to be submerged in water. Therefore, oxygen has become a key resource for people to survive in the water. At this time, the biggest role of the smart home system is to monitor the oxygen content in the room at all times and issue early warnings in time. When our home is in the ocean, will we unscrupulously produce a lot of garbage? Can we complete housework and cleaning tasks by ourselves?  
 
-    
+Complete project introduction: https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-2  
+  
+  
 ## Demo Video
  
 * Click the picture
-* This is my video link ：
-  <img src="https://cortex.persona.co/w/4000/q/67/i/6eab27c0d648fd881bf61e5034196c441a42c76ae1318378fd165a653699d668/post_extinction_5664.jpg">  
+  <img src="https://cortex.persona.co/w/4000/q/67/i/6eab27c0d648fd881bf61e5034196c441a42c76ae1318378fd165a653699d668/post_extinction_5664.jpg">
+  
+  This is my video link: https://www.youtube.com/watch?v=WPD-2-VXdvo
+  
 * Video < Clean up the room > & source file information
 
   
@@ -38,22 +42,21 @@
   
 ## My Blog 
   
-* Development and design 1：
+* [Development and design 1](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-2)
   Design an immersive underwater experience space in AR
 
-* Development and design 2：
+* [Development and design 2](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor)
   Set up interactive marine ecology in AR
   
-* Development and design 3：
+* [Development and design 3](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-1)
   Recognizing garbage to generate poisonous gas effects in AR
 
-* Development and design 4：
+* [Development and design 4](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-3)
   Design the UI interaction behavior of AR APP
    
-* Visual, UI & Model design 1:
+* Visual, UI & Model design 1
   AR game homepage, buttons and marine plant model
     
-* Concept and Research 1:
-  AR GAME Concept development and technology researvh
+* Concept and Research 1
+  AR GAME Concept development and technology research
    
-* Term1：Labs to build skills
