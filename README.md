@@ -14,7 +14,7 @@ Complete project introduction: https://540767981.wixsite.com/amelia330/post/ar-g
 ## Demo Video
  
 * Click the picture
-  <img src="https://cortex.persona.co/w/4000/q/67/i/6eab27c0d648fd881bf61e5034196c441a42c76ae1318378fd165a653699d668/post_extinction_5664.jpg">
+  <img src="https://static.wixstatic.com/media/74ebd6_42be34a473594e09a5195af160d2ec7c~mv2.jpg/v1/fill/w_1880,h_1058,al_c,q_90/74ebd6_42be34a473594e09a5195af160d2ec7c~mv2.jpg">
   
   This is my video link: https://www.youtube.com/watch?v=WPD-2-VXdvo
   
