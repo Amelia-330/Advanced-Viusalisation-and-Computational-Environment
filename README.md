@@ -1,7 +1,6 @@
 # CCI - Oxygen Poor <AR Game>
-* Advanced-Viusalisation-and-Computational-Environment
-* The term-final project for course Advanced Visualisation and Computational Environment  
-* MY Original Work
+The term-final project for course Advanced Visualisation and Computational Environment  
+MY Original Work
   
   
 ## Introduction
@@ -54,9 +53,9 @@ Complete project introduction: https://540767981.wixsite.com/amelia330/post/ar-g
 * [Development and design 4](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-3)
   Design the UI interaction behavior of AR APP
    
-* Visual, UI & Model design 1
+* [Visual, UI & Model design](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-4)
   AR game homepage, buttons and marine plant model
     
-* Concept and Research 1
-  AR GAME Concept development and technology research
+* [Ideation and Research](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-5)
+  AR GAME Concept Development and Technology Research
    
