@@ -1,6 +1,7 @@
 # AR Game: Oxygen Poor 
-The term-final project for course Advanced Visualisation and Computational Environment - MY Original Work 
-<img src="https://static.wixstatic.com/media/74ebd6_42be34a473594e09a5195af160d2ec7c~mv2.jpg/v1/fill/w_1880,h_1058,al_c,q_90/74ebd6_42be34a473594e09a5195af160d2ec7c~mv2.jpg">  
+* The term-final project for course Advanced Visualisation and Computational Environment - MY Original Work 
+<img
+     src="https://static.wixstatic.com/media/74ebd6_42be34a473594e09a5195af160d2ec7c~mv2.jpg/v1/fill/w_1880,h_1058,al_c,q_90/74ebd6_42be34a473594e09a5195af160d2ec7c~mv2.jpg">  
   
 ## Introduction
 
@@ -11,10 +12,7 @@ The term-final project for course Advanced Visualisation and Computational Envir
   
 ## Demo Video
  
-* Click the picture
-  <img src="https://www.youtube.com/watch?v=rxt1pdc6osY&t=8s">
-  
-  This is my video link: https://www.youtube.com/watch?v=rxt1pdc6osY&t=8s
+* This is my video link: https://www.youtube.com/watch?v=rxt1pdc6osY&t=8s
   
 * Video < Clean up the room > & source file information
 
