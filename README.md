@@ -7,7 +7,7 @@
 
 * This project is an AR experiential game. The first entry into the AR interface represents the opening of the future smart home system. The background of the project is that global warming causes sea levels to rise, forcing people's homes to be submerged in water. Therefore, oxygen has become a key resource for people to survive in the water. At this time, the biggest role of the smart home system is to monitor the oxygen content in the room at all times and issue early warnings in time. When our home is in the ocean, will we unscrupulously produce a lot of garbage? Can we complete housework and cleaning tasks by ourselves?  
 
-  Complete project introduction: https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-2  
+  Complete project introduction: https://540767981.wixsite.com/amelia330/copy-of-project-10  
   
   
 ## Demo Video
