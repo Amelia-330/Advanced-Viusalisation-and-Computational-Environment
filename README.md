@@ -52,7 +52,4 @@
    
 * [Visual, UI & Model design](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-4)
   AR game homepage, buttons and marine plant model
-    
-* [Ideation and Research](https://540767981.wixsite.com/amelia330/post/ar-game-oxygen-poor-5)
-  AR GAME Concept Development and Technology Research
    
